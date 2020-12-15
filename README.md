@@ -3,4 +3,4 @@ Esse repositorio e feito para armazenar todo o conteudo produzido pela diretoria
 
 ## Notebooks
 
-- [Feature Scaling](colab.research.google.com/TailUFPB/DataScience/tree/main/Estudos/FeatureScaling.ipynb)
+- [Feature Scaling](https://colab.research.google.com/github/TailUFPB/DataScience/blob/main/Estudos/FeatureScaling.ipynb)
